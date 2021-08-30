@@ -1,5 +1,4 @@
-- 👋 Hi, my name is David Varga
-- 👀 I develop Android apps as a hobby.
-- 🌱 I’m looking for a job.
+- 👋 My name is David Varga
+- 👀 I am a dedicated Android developer.
 - 💞️ Look at my portfolio to see what technologies I've applied in my projects.
 - 📫 You can reach me on LinkedIn, and at davevarga999@gmail.com
